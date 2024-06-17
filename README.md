@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suparna Neupane
-- 👀 I’m interested in you ;)
+- 🎓I'm pursuing my studies in Computer Engineering at IOE, Pulchowk Campus.
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web 3 dapps
 
